@@ -1,4 +1,4 @@
-# processamento.digital.sinal
+# Processamento Digital de Sinais
 Projeto Demo de Processamento Digital de Sinais desenvolvido em Python. (GOOGLE COLAB)
 
 ############URL VIDEO##############
